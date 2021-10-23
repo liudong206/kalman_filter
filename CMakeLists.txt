@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 2.8)
  
 # 项目信息
-project(AdaptiveMedianFilter)
+project(kalman_filter)
  
  
 # 添加头文件路径
