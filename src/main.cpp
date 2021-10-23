@@ -4,6 +4,7 @@
 #include <fstream> 
 #include "kalman_filter.h"
 using namespace std;
+
 int main()
 {
     kalman_state state; 
@@ -27,6 +28,6 @@ int main()
         }
     }
     inFile.close();
-    cout<<"kalman filter finished"<<endl;
+    cout<<"kalman filter is finished"<<endl;
     return 1;
 }
