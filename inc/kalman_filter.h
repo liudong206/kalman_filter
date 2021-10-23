@@ -1,6 +1,7 @@
 #ifndef  _KALMAN_FILTER_H
 #define  _KALMAN_FILTER_H
 #ifdef __cplusplus
+/*head file*/
 extern "C"
 {
 #endif
